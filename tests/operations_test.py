@@ -8,4 +8,4 @@ def test_add():
 def test_sun():
     assert sub(5,2)==3
     assert sub(8,3)==5 
-    assert sub(-5,3)==-8 
+    assert sub(-5,4)==-9
